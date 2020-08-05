@@ -1,0 +1,21 @@
+Authors: Hafsah Arain, Ayesha Parvez, Jeremy Chang, Aadi Padmawar, Huiquan Li, and
+Yuchen Yan
+Version: 2.0
+Date: 5/03/20
+
+Updates:
+-There are several updates since our alpha release. Most importantly, all our pieces can move
+now without crashing the program. Our program also supports special moves such as en
+passant and castling.
+-It can also check for check/checkmate.
+-This release includes a player vs. player version of the game, but does not support the option
+for playing against a computer and does not support a log file that displays the events of the 
+game yet.
+-Also, checking for check/checkmate and supporting en passant are still in the works.
+
+
+Instructions:
+To run the program, type ./chess. More detailed instructions for the installation can be found in
+the user manual.
+To view the generated game log, type “cat log.txt”.
+More details about the game can be found in the user manual.

@@ -1,0 +1,17 @@
+Source Package Installation 
+
+To untar the file, type: 
+	gtar xvzf Chess_V1.0_src.tar.gz 
+
+Navigate to the chess directory, then to the src directory: 
+	cd chess 
+	cd src 
+
+Install the program: 
+	make chess 
+
+To run the program, navigate first to the bin directory: 
+	cd ../bin 
+	./chess 
+
+More detailed instructions on the installation/uninstallation of this program can be found in the software specification manual.

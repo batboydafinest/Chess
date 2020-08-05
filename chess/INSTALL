@@ -1,0 +1,16 @@
+Installation:
+
+To untar the file, type:
+	tar -xvzf Chess_V1.0_src.tar.gz
+Navigate to the chess directory:
+	cd chess
+Install the program:
+	make
+To run the program, navigate to the bin directory and run chess:
+	cd bin
+	./chess
+To uninstall the program:
+	make clean
+
+More detailed instructions on the installation/uninstallation of this program can be found in the
+software specification manual.

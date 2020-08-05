@@ -1,0 +1,12 @@
+User Package README 
+
+Authors: Hafsah Arain, Ayesha Parvez, Jeremy Chang, Aadi Padmawar, Huiquan Li, and Yuchen Yan 
+Version: 3.0 
+Date: 5/09/20 
+
+This is the final version of our chess game. The user can now choose to play against the computer or against another player. The user can also 
+view the generaed log file by typing "cat log.txt". For more details on the features of this program, please refer to the user manual in located
+in the doc directory. 
+
+To run the program, please type "./chess". For more details on the installation, please refer to the user manual. 
+ 
